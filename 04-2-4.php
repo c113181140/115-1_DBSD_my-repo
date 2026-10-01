@@ -3,7 +3,7 @@
     $name = "myName"; // 將字串 "myName" 賦值給變數 $name
 
     // 動態變數名稱
-    $$name = "鄭揚叡";  // 使用變數變數，將 "陳允東" 賦值給變數 $myName
+    $$name = "Myrepo";  // 使用變數變數，將 "陳允東" 賦值給變數 $myName
 
     // 取出動態變數的值
     $username = $$name; // 將變數 $myName 的值賦值給 $username
