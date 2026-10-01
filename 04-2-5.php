@@ -1,3 +1,7 @@
+# SID C113181140
+# Name 鄭揚叡
+EX04
+<HR>
 <?php
 $name = "鄭揚叡";  // 指定變數值
     $username1 = "許博凱";

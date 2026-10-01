@@ -1,3 +1,7 @@
+# SID C113181140
+# Name 鄭揚叡
+EX03
+<HR>
 <?php
 // 指定變數值
     $name = "Myrepo"; // 將字串 "myName" 賦值給變數 $name

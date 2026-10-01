@@ -1,3 +1,7 @@
+# SID C113181140
+# Name 鄭揚叡
+EX05
+<HR>
 <?php
 define("PI", 3.1415926);  // 常數宣告
 define("AREA", "面積");

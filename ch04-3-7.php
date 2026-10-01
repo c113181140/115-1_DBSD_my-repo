@@ -1,3 +1,7 @@
+# SID C113181140
+# Name 鄭揚叡
+EX06
+<HR>
 <?php
 function square(float|int $v): int|float {
     return $v ** 2;
