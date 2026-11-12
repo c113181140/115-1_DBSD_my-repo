@@ -1,4 +1,6 @@
 <?php
+require("about_me.php");
+echo "W10-EX01" . "<hr/>";
 session_start();
 if(!isset($_SESSION["page count"])){
     $_SESSION["page count"] = 1;
